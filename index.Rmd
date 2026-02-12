@@ -1,0 +1,86 @@
+---
+title: "Zyanya Velazquez"
+image: "zyanya.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/zyanyaald/"
+  - label: Twitter
+    url: "https://x.com/Zyanya_Ald"
+  - label: GitHub
+    url: "https://github.com/ZyanyaAld"
+  - label: Email
+    url: "mailto:zyanyava@lcg.unam.mx"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+Zyanya Valentina Velazquez Aldrete is an undergraduate researcher in Genomic 
+Sciences at the National Autonomous University of Mexico (UNAM). Her work 
+bridges molecular microbiology, evolutionary genomics, and systems biology 
+through the integration of experimental and computational approaches.
+
+She is currently involved in three research lines: antimicrobial discovery 
+from environmental bacterial isolates, mathematical modeling of pulmonary 
+fibrosis dynamics, and comparative genomics of aging and longevity in reptiles. 
+Her research interests include phylogenetic comparative methods, evolutionary 
+analysis, genome-wide data integration, and the development of minimal 
+mathematical models to understand biological regulation and disease-associated 
+transitions.
+
+She works primarily in R, Python, and Linux-based environments, focusing on 
+reproducible computational workflows and quantitative biological analysis.
+
+## Education
+
+**National Autonomous University of Mexico (UNAM)** | Morelos, Mexico  
+B.Sc. in Genomic Sciences | 2024 – Present  
+GPA: 89.4 / 100  
+
+**National Preparatory School (UNAM)** | Mexico City, Mexico  
+Histopathology Technician | 2022 – 2023  
+GPA: 90 / 100
+
+## Research Experience
+
+**Evolutionary and Functional Genomics Lab – Institute of Ecology, UNAM**  
+Undergraduate Researcher | Nov 2025 – Present  
+
+- Genome-wide comparative analyses to identify molecular signatures associated 
+  with aging and longevity in reptiles.
+- Ortholog identification, sequence alignment, substitution rate estimation, 
+  and detection of selective pressures.
+- Processing and quality control of genome and transcriptome datasets.
+- Implementation of phylogenetic and evolutionary analyses in R and Python.
+
+**Evolutionary Systems Biology Lab – LIIGH, UNAM**  
+Undergraduate Researcher | Jun 2025 – Present  
+
+- Development of a minimal mathematical model describing inflammation–fibroblast 
+  dynamics in pulmonary fibrosis.
+- Translation of biological regulatory mechanisms into systems of differential equations.
+- Computational simulations, stability analysis, and parameter exploration in Python/MATLAB.
+
+**Molecular Microbiology – Biotechnology Institute (IBt), UNAM**  
+Undergraduate Researcher | Jan 2025 – Present  
+
+- Isolation and screening of bacteria producing antimicrobial compounds from mangrove soils.
+- Design of inhibition assays against clinically relevant pathogens.
+- Extraction of secondary metabolites and evaluation of antimicrobial activity.
+- DNA extraction and sequencing for taxonomic identification.
+
+## Skills
+
+**Programming & Computational Tools**  
+R · Python · Linux · Bash · Git · RStudio · Jupyter Notebook  
+
+**Bioinformatics & Data Analysis**  
+Comparative genomics · Sequence analysis · Evolutionary analysis · 
+Statistical modeling · Phylogenetic methods  
+
+**Languages**  
+Spanish (Native) · English (B2)
+
+
+
