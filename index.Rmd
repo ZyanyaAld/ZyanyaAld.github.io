@@ -35,12 +35,10 @@ reproducible computational workflows and quantitative biological analysis.
 ## Education
 
 **National Autonomous University of Mexico (UNAM)** | Morelos, Mexico  
-B.Sc. in Genomic Sciences | 2024 – Present  
-GPA: 89.4 / 100  
+B.Sc. in Genomic Sciences | 2024 – Present   
 
 **National Preparatory School (UNAM)** | Mexico City, Mexico  
 Histopathology Technician | 2022 – 2023  
-GPA: 90 / 100
 
 ## Research Experience
 
